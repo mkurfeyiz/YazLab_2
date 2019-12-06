@@ -1,0 +1,10 @@
+C:\Users\asus1\source\repos\YazLabDeneme\yazlab2\obj\Debug\yazlab2.csprojAssemblyReference.cache
+C:\Users\asus1\source\repos\YazLabDeneme\yazlab2\obj\Debug\yazlab2.Form1.resources
+C:\Users\asus1\source\repos\YazLabDeneme\yazlab2\obj\Debug\yazlab2.Properties.Resources.resources
+C:\Users\asus1\source\repos\YazLabDeneme\yazlab2\obj\Debug\yazlab2.csproj.GenerateResource.cache
+C:\Users\asus1\source\repos\YazLabDeneme\yazlab2\obj\Debug\yazlab2.csproj.CoreCompileInputs.cache
+C:\Users\asus1\source\repos\YazLabDeneme\yazlab2\bin\Debug\yazlab2.exe.config
+C:\Users\asus1\source\repos\YazLabDeneme\yazlab2\bin\Debug\yazlab2.exe
+C:\Users\asus1\source\repos\YazLabDeneme\yazlab2\bin\Debug\yazlab2.pdb
+C:\Users\asus1\source\repos\YazLabDeneme\yazlab2\obj\Debug\yazlab2.exe
+C:\Users\asus1\source\repos\YazLabDeneme\yazlab2\obj\Debug\yazlab2.pdb
